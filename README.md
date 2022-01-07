@@ -22,7 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCione&layout=compact&theme=tokyonight&locale=es)](https://github.com/FedeCione/github-readme-stats)
 
 ### Trabajo práctico integrador (Aplicación Web - E-commerce "Urban-Sport") :computer:
-- [Link del repositorio](https://github.com/MatiasRaulIbarra/Grupo_5_Urban-Sport)
+- [Link del repositorio](https://github.com/FedeCione/Grupo_5_Urban-Sport)
 > ***Este es el proyecto integrador grupal que desarrollamos y presentamos al final de curso de Digital House con la Fundación Formar, junto a mis compañeros
 > [Elias Kannemann](https://github.com/eliasKannemann), [Matias Ibarra](https://github.com/MatiasRaulIbarra) y [Juliana Lezcano](https://github.com/JulianaLezcano).  
 > El mismo es un E-commerce para un negocio de indumentaria deportiva. Utilizamos una metodología de trabajo tipo SCRUM, en cada etapa del desarrollo teníamos
