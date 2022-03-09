@@ -4,7 +4,7 @@
 >***Soy Programador Web Full Stack Junior, hice un curso en Digital House de la mano de la Fundación Formar y ahora en busca de mi
 >primer empleo IT. Estoy capacitado para trabajar en equipo, con orden, responsabilidad y muchas ganar de nunca parar de aprender.
 >Me gusta mucho el análisis y resolución de problemas, soy más del Backend que de Frontend pero me manejo en los dos.
->Además del curso con Digital House hice cursos en Platzi sobre HTML, CSS, Javascript y otros..***
+>Además del curso con Digital House hice cursos en Platzi sobre HTML, CSS, Javascript y otros.***
 
 ![FedeCione's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedeCione&show_icons=true&theme=tokyonight&locale=es)
 
