@@ -24,15 +24,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCione&layout=compact&theme=tokyonight&locale=es)](https://github.com/FedeCione/github-readme-stats)
 
-### Trabajo práctico integrador (Aplicación Web - E-commerce "Urban-Sport") :computer:
+### Trabajo práctico integrador (Aplicación Web - E-commerce "Urban-Sport")
 - [Link del repositorio](https://github.com/FedeCione/Grupo_5_Urban-Sport)
 > ***Este es el proyecto integrador grupal que desarrollamos y presentamos al final de curso de Digital House con la Fundación Formar, junto a mis compañeros
 > [Elias Kannemann](https://github.com/eliasKannemann), [Matias Ibarra](https://github.com/MatiasRaulIbarra) y [Juliana Lezcano](https://github.com/JulianaLezcano).  
 > El mismo es un E-commerce para un negocio de indumentaria deportiva. Utilizamos una metodología de trabajo tipo SCRUM, en cada etapa del desarrollo teníamos
-> que aplicar lo aprendido durante el trayecto del curso a este proyecto organizándonos y asignándolos las tareas atrevés de Trello.
-> Algunas de las tecnologías utilizadas en este proyecto son:  
+> que aplicar lo aprendido durante el trayecto del curso a este proyecto organizándonos y asignándolos las tareas atrevés de Trello.***
+> 
+> ***Algunas de las tecnologías utilizadas en este proyecto son:  
 > HTML - CSS - JavaScript - Git - GitHub - NodeJS - Express - EJS - Sequelize - MySQL***
 
+### Proyecto ONG Somos mas - Backend NodeJS (Con Alkemy)
+- [Link del repositorio](https://github.com/Carolina053Peke/OT176)
+> ***Este proyecto es para una ONG ficticia desarrollada con el fin de acelerar y afirmar nuestras habilidades técnicas y blandas de la mano de Alkemy. El equipo
+> esta conformado por 7 personas contandome, en el cual me desempeño como desarrollador Backend NodeJS.***
+> 
+> ***Algunas de las tecnologías utilizadas en este proyecto son:  
+> JavaScript - Git - GitHub - NodeJS - Express - Sequelize - MySQL - JSON Web Token (JWT) - AWS SDK S3 - Mocha/Chai***
 
 ### Contacto :postbox:
 - [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fede-cione/)
