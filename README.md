@@ -6,7 +6,7 @@
 >Me gusta mucho el análisis y resolución de problemas, soy más del Backend que de Frontend pero me manejo en los dos.
 >Además del curso con Digital House hice cursos en Platzi sobre HTML, CSS, Javascript y otros.***
 
-![FedeCione's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedeCione&show_icons=true&theme=tokyonight&locale=es)
+![FedeCione's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FedeCione&show_icons=true&locale=es&theme=tokyonight)
 
 ### Lenguajes y herramientas :technologist:
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
