@@ -25,7 +25,7 @@
 ![image](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCione&layout=compact&theme=tokyonight&locale=es)](https://github.com/FedeCione/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FedeCione&theme=tokyonight&locale=es)
 
 ### Trabajo práctico integrador (Aplicación Web - E-commerce "Urban-Sport")
 - [Link del repositorio](https://github.com/FedeCione/Grupo_5_Urban-Sport)
