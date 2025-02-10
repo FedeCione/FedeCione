@@ -29,6 +29,6 @@
 
 ### Contact :postbox:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fede-cione/)  
-***Email : fede_cione_96@hotmail.com***
+***Email : fedecione.dev@gmail.com***
 
 ### Thanks for stopping by, Regards! :smile:
