@@ -25,7 +25,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### 📊 GitHub Analitycs 📉
-![FedeCione's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FedeCione&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCione&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCione&theme=radical&layout=compact)
 
 ### Contact :postbox:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fede-cione/)  
