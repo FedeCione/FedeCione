@@ -1,34 +1,45 @@
-## Hi, I'm Federico Cione 👋
+# Federico Cione
 
-### Backend Engineer | AI Chatbots & Automation
+**Backend Engineer · NestJS + AI**
 
-I’m a backend engineer specialized in building scalable backend systems and AI-powered chatbots using Node.js and NestJS.
+Argentina-based backend engineer (UTC-3). I build typed, tested, AI-integrated APIs for product teams and SMBs — with a focus on LATAM clients.
 
-My work focuses on integrating LLMs into real production systems, improving customer support and internal workflows through automation.
+**Open for freelance engagements.** Four productized packages (chatbots, automations, backend MVPs, and custom builds) with clear pricing and timelines on the [portfolio ↗](https://fedecione-portfolio.vercel.app).
 
 ---
 
-### 🔧 Tech Stack
-- Node.js, NestJS, TypeScript
-- AI / LLM integrations (LangChain, LangGraph, OpenAI)
+### Currently building with
+
+- NestJS 11, TypeScript (strict)
+- PostgreSQL + Drizzle ORM
+- Groq (Llama 3.3 70B), OpenAI
+- Next.js (App Router), Tailwind CSS
+- Docker Compose, Vercel
+- Zod, JWT + Passport, bcrypt
+- Vitest + Supertest (TDD)
+
+### Also experienced with
+
+- Node.js, Express
 - MongoDB, MySQL
+- LangChain, LangGraph
 - REST APIs, WebSockets
-- Docker, AWS
-- Testing with Jest & Supertest
+- AWS (deployment, basic infra)
+- Jest + Supertest
 
 ---
 
-### 📌 Featured Projects
-- AI Chatbot Backend (NestJS + LLM integration)
-- Backend APIs with authentication and scalable architecture
+### Featured work
+
+- **[NestAI-Starter](https://github.com/FedeCione/nestai-starter)** — Production-grade NestJS + Postgres + Drizzle + JWT + Groq template. One command to boot. My day-0 scaffold for every Backend MVP engagement.
+- **[ChatPyME](https://github.com/FedeCione/chatpyme)** — WhatsApp-ready AI chatbot for LATAM SMBs · [live demo](https://chatpyme.vercel.app)
+- **[AutoLeads](https://github.com/FedeCione/autoleads)** — AI-powered lead qualification and CRM glue · [live demo](https://autoleads-six.vercel.app)
 
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedeCione&layout=compact)
+### Contact
 
----
-
-### 📬 Contact
-[LinkedIn](https://www.linkedin.com/in/fede-cione/)  
-Email: fedecione.dev@gmail.com
+- **Portfolio** — [fedecione-portfolio.vercel.app](https://fedecione-portfolio.vercel.app)
+- **LinkedIn** — [fede-cione](https://www.linkedin.com/in/fede-cione/)
+- **Email** — fedecione.dev@gmail.com
+- **Book a call** — [schedule a discovery call ↗](https://fedecione-portfolio.vercel.app/#contact)
