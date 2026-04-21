@@ -10,9 +10,9 @@ Argentina-based backend engineer (UTC-3). I build typed, tested, AI-integrated A
 
 ### Currently building with
 
-- NestJS 11, TypeScript (strict)
+- NestJS, TypeScript (strict)
 - PostgreSQL + Drizzle ORM
-- Groq (Llama 3.3 70B), OpenAI
+- Groq (Llama), OpenAI
 - Next.js (App Router), Tailwind CSS
 - Docker Compose, Vercel
 - Zod, JWT + Passport, bcrypt
