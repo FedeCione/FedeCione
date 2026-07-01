@@ -36,11 +36,13 @@ Argentina-based backend engineer (UTC-3). I build typed, tested, AI-integrated A
 - **[ChatPyME](https://github.com/FedeCione/chatpyme)** — Single-niche WhatsApp AI chatbot for LATAM SMBs · [live demo](https://chatpyme.vercel.app)
 - **[AutoLeads](https://github.com/FedeCione/autoleads)** — AI-powered lead qualification and CRM glue · [live demo](https://autoleads-six.vercel.app)
 
-### Notimation — showcase UIs
+### Notimation — apps & showcases
 
-A multi-surface product concept for local creators & SMBs in Argentina (Next.js · NestJS · Auth0) — a template marketplace and its surrounding surfaces, all deployed:
+A collection of full-stack apps and UI showcases built end to end (Next.js · NestJS · Auth0) — from a template platform for local creators & SMBs to standalone products across education, web3 and sports. All deployed:
 
-[Marketplace](https://notimation-marketplace.vercel.app) · [Storefront](https://notimation-storefront.vercel.app) · [Inbox](https://notimation-inbox.vercel.app) · [Agents](https://notimation-agents.vercel.app) · [UI Tool](https://notimation-uitool.vercel.app) · [UI Box](https://notimation-uibox.vercel.app) · [API Docs](https://notimation-api-docs.vercel.app)
+**Platform** — [Marketplace](https://notimation-marketplace.vercel.app) · [Storefront](https://notimation-storefront.vercel.app) · [Inbox](https://notimation-inbox.vercel.app) · [Agents](https://notimation-agents.vercel.app) · [UI Tool](https://notimation-uitool.vercel.app) · [UI Box](https://notimation-uibox.vercel.app) · [API Docs](https://notimation-api-docs.vercel.app)
+
+**Builds** — [Maular](https://maular-landing.vercel.app) (mentorship school) · [QueenBe](https://queenbe-showcase.vercel.app) (Solana explorer) · [ScrumIt](https://scrumit-landing.vercel.app) (rugby-club app, + [backoffice](https://scrumit-backoffice.vercel.app))
 
 ---
 
