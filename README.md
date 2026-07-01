@@ -31,8 +31,9 @@ Argentina-based backend engineer (UTC-3). I build typed, tested, AI-integrated A
 
 ### Featured work
 
+- **[Kenti ↗](https://getkenti.vercel.app)** — Multi-tenant **WhatsApp AI agent platform** for service SMEs (NestJS + Next.js): bilingual ES/EN agents that answer 24/7, capture leads, book, and hand off to a human — with a real admin dashboard. Live, try-it demo.
 - **[NestAI-Starter](https://github.com/FedeCione/nestai-starter)** — Production-grade NestJS + Postgres + Drizzle + JWT + Groq template. One command to boot. My day-0 scaffold for every Backend MVP engagement.
-- **[ChatPyME](https://github.com/FedeCione/chatpyme)** — WhatsApp-ready AI chatbot for LATAM SMBs · [live demo](https://chatpyme.vercel.app)
+- **[ChatPyME](https://github.com/FedeCione/chatpyme)** — Single-niche WhatsApp AI chatbot for LATAM SMBs · [live demo](https://chatpyme.vercel.app)
 - **[AutoLeads](https://github.com/FedeCione/autoleads)** — AI-powered lead qualification and CRM glue · [live demo](https://autoleads-six.vercel.app)
 
 ---
